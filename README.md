@@ -16,3 +16,6 @@ Click here and get 20% discount — **grab it before the offer expires!**
 ✔️ Trusted by many first-time passers  
 
 > Practice smart. Pass confidently.
+
+## License  
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
